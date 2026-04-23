@@ -1,0 +1,3 @@
+Day_02: 
+Waleed
+Today I learned how to style HTML forms using CSS, including input fields, buttons, hover and focus effects with transitions. I also learned how to use Google Fonts, add a background image with a dark overlay, and build a responsive header using position absolute inside position relative. I practiced Flexbox to create a two-column layout and used media queries to make the page responsive on mobile. The main challenge I faced was keeping the footer visible by applying the background image only to the main section instead of the entire body.
